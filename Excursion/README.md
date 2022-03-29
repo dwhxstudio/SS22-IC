@@ -19,6 +19,7 @@ Here's the collection of links we visited at our excursion:
 - https://www.wappalyzer.com/
 
 Some more links we analyzed on Monday:
+
 Skeumorphic Design
 - https://play.workadventu.re/_/global/tillmannohm.github.io/CUDAN-map/map.json
     - https://en.wikipedia.org/wiki/Path_dependence
